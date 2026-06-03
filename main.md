@@ -240,8 +240,3 @@ sources at once, use semicolon ";": [@FirstCitation2004; @SecondCitation2024]
 Sometimes you need to reference appendices, which are located in /project/appendices.
 Each appendix starts with "Appendix X: Something something". X being a unique number.
 When referencing an appendix, please write (Appendix X) at the end.
-
-## Kanban
-
-In other/todo.kanban is a markdown based kanban board. Always check, when asked to write
-something, if it completes a task in todo.kanban. If so, move it to a correct position.
